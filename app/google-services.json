@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559318091786",
+    "firebase_url": "https://hd-wallapers-8967c.firebaseio.com",
+    "project_id": "hd-wallapers-8967c",
+    "storage_bucket": "hd-wallapers-8967c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559318091786:android:a57fc8531b8189590af7f3",
+        "android_client_info": {
+          "package_name": "com.example.hdwallapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559318091786-t1aeqn976b7ig7obogapj36hqpv0jdns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hdwallapers",
+            "certificate_hash": "40c1954b2ab0d0b5ac8e06577564da332f56525a"
+          }
+        },
+        {
+          "client_id": "559318091786-v95oej2oi8gm8gic6901u4okl80hnhid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhnyMLZfbwwpw-6Zykzu5pnnecJaSw84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559318091786-v95oej2oi8gm8gic6901u4okl80hnhid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
